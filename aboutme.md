@@ -4,13 +4,19 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is **Benny Rubin**. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+The best way to contact me is my email at the bottom of the webpage. 
 
-What else do you need?
+Outside of work I enjoy 
+- Travel
+    - Try to embed a google map of the places I've been 
+    - Always looking for more opportunities to see the world
+- Hiking
+- Soccer
+- Cooking
+    - I cook a lot of vegetarian food and also like to bake
+- Reading
+    - My favorite books are The unbearable lightness of being, The 3 body problem, and a Gentleman in Moscow
 
-### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
