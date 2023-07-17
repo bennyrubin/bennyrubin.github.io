@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-cover-img: ["./assets/img/headshot_copy.jpg", "./assets/img/crepe.jpg"]
+cover-img: ["./assets/img/headshot_copy.jpg", "./assets/img/tetons.jpg", "./assets/img/water.JPG", "./assets/img/alpine.JPG"]
 ---
 
 
