@@ -7,11 +7,13 @@ subtitle:
 
 My name is **Benny Rubin**. 
 
-<img src="./assets/img/Benny_hiking.jpg" alt="Me!" width="200"/>
-![Me!](./assets/img/Benny_hiking.jpg)
-
-
 The best way to contact me is my email at the bottom of the webpage. 
+
+
+<img src="./assets/img/Benny_hiking.jpg" alt="drawing" width="200"/>
+![Benny!](./assets/img/Benny_hiking.jpg)
+
+
 
 ### Travel
 - I enjoy backpacking and exploring new cities
