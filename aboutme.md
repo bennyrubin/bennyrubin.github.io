@@ -7,6 +7,10 @@ subtitle:
 
 My name is **Benny Rubin**. 
 
+<img src="./assets/img/Benny_hiking.jpg" alt="Me!" width="200"/>
+![Me!](./assets/img/Benny_hiking.jpg)
+
+
 The best way to contact me is my email at the bottom of the webpage. 
 
 ### Travel
@@ -22,7 +26,7 @@ The best way to contact me is my email at the bottom of the webpage.
 - My favorite books are The Unbearable lightness of Being, The 3 Body Problem, and A Gentleman In Moscow
 
 ### Sports
-- I have been playing soccer my whole life. Since quitting playing competitively in high school, I play pickup with my friends and intramural at school 
+- I have been playing soccer my whole life. Since quitting playing competitively in high school, I play pickup with my friends and intramural at Cornell 
 - In the summer, I wakeboard on the Severn River in Maryland
 
 ### Music
