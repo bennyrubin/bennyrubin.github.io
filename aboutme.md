@@ -9,13 +9,11 @@ My name is **Benny Rubin**.
 
 The best way to contact me is my email at the bottom of the webpage. 
 
-Outside of work I enjoy 
+Outside of research I enjoy 
 ### Travel
 - I enjoy backpacking and exploring new cities
-- Always looking for more opportunities to see the world
-
-### Hiking
 - My favorite places I have hiked are Yosemite, Zion, and Swiss Alps
+- Always looking for more opportunities to see the world
 
 ### Cooking
 - I love to cook and try new recipes! Lately I have been experimenting with a lot of Indian cuisine. 
