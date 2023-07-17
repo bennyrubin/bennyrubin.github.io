@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: 
+cover-img: ./assets/img/headshot.jpg
 ---
 
 
@@ -10,8 +10,7 @@ My name is **Benny Rubin**.
 The best way to contact me is my email at the bottom of the webpage. 
 
 
-<img src="./assets/img/Benny_hiking.jpg" alt="drawing" width="200"/>
-![Benny!](./assets/img/Benny_hiking.jpg)
+![Benny!](./assets/img/headshot_copy.jpg)
 
 
 
@@ -32,5 +31,5 @@ The best way to contact me is my email at the bottom of the webpage.
 - In the summer, I wakeboard on the Severn River in Maryland
 
 ### Music
-- I love listening to all genres of music. In my free time, my current instrument of choice is the ukelele 
+- I love listening to all genres of music. My current instrument of choice is the ukelele 
 
