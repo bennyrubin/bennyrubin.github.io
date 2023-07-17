@@ -11,12 +11,12 @@ title: Publications
 
 <br>
 
-## PhD Class Research Projects 
+## Class Research Projects 
 
 Papers include brief abstract of work.
 
 **CS 6450 - Advanced Networking** <br>
-Using Causaul Telemetry to verify BGP routing behavior <br>
+Using Causal Telemetry to verify BGP routing behavior <br>
 [Paper](./Causal_Telemetry_Paper.pdf)
 
 **CS 6850 - The Structure of Information Networks** <br>

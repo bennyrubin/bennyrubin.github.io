@@ -1,13 +1,13 @@
 ---
 layout: page
-title: About me
+title: ""
 cover-img: ["./assets/img/alpine.JPG"]
 ---
 
 
 My name is **Benny Rubin**. 
 
-The best way to contact me is my email at the bottom of the webpage. 
+The best way to contact me is by email: bennycrubin (at) gmail.com 
 
 
 
@@ -20,7 +20,7 @@ and here
 
 ### Travel
 - I enjoy backpacking and exploring new cities
-- My favorite places I have hiked are Yosemite, Zion, and Swiss Alps
+- My favorite places I have hiked are Yosemite, Zion, and the Swiss Alps
 - Always looking for more opportunities to see the world
 
 ### Cooking
@@ -32,6 +32,7 @@ and here
 
 ### Sports
 - I have been playing soccer my whole life. Since quitting playing competitively in high school, I play pickup with my friends and intramural at Cornell 
+- I run to keep in shape for soccer, but have - to my surprise - grown to really enjoy it! I am currently training for my first marathon 
 - In the summer, I wakeboard on the Severn River in Maryland
 
 ### Music
