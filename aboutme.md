@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-cover-img: ["./assets/img/headshot_copy.jpg", "./assets/img/tetons.jpg", "./assets/img/water.JPG", "./assets/img/alpine.JPG"]
+cover-img: ["./assets/img/alpine.JPG"]
 ---
 
 
@@ -10,8 +10,12 @@ My name is **Benny Rubin**.
 The best way to contact me is my email at the bottom of the webpage. 
 
 
-![Benny!](./assets/img/headshot_copy.jpg)
 
+
+<!---
+![Benny!](./assets/img/headshot_copy.jpg)
+and here
+-->
 
 
 ### Travel
