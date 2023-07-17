@@ -10,14 +10,19 @@ My name is **Benny Rubin**.
 The best way to contact me is my email at the bottom of the webpage. 
 
 Outside of work I enjoy 
-- Travel
-    - Try to embed a google map of the places I've been 
-    - Always looking for more opportunities to see the world
-- Hiking
-- Soccer
-- Cooking
-    - I cook a lot of vegetarian food and also like to bake
-- Reading
-    - My favorite books are The unbearable lightness of being, The 3 body problem, and a Gentleman in Moscow
+### Travel
+- I enjoy backpacking and exploring new cities
+- Always looking for more opportunities to see the world
 
+### Hiking
+- My favorite places I have hiked are Yosemite, Zion, and Swiss Alps
+
+### Cooking
+- I love to cook and try new recipes! Lately I have been experimenting with a lot of Indian cuisine. 
+
+### Reading
+- My favorite books are The Unbearable lightness of Being, The 3 Body Problem, and A Gentleman In Moscow
+
+### Soccer
+- I have been playing soccer my whole life. Since quitting playing competitively in high school, I play pickup with my friends and intramural at school. 
 

@@ -20,7 +20,6 @@ author: Benny Rubin
 ###############################################
 
 navbar-links:
-  Home: ""
   About Me: "aboutme"
   Publications: "publications"
   Resume: "resume"
