@@ -36,5 +36,5 @@ and here
 - In the summer, I wakeboard on the Severn River in Maryland
 
 ### Music
-- I love listening to all genres of music. My current instrument of choice is the ukelele 
+- I love listening to all genres of music. I grew up playing classical piano, but my current instrument of choice is the ukelele.
 
