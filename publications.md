@@ -7,7 +7,7 @@ title: Publications
 
 - **Hydra: Effective Runtime Network Verification**  
   Sundararajan Renganathan, **Benny Rubin**, Hyojoon Kim, Pier Ventre, Carmelo Cascone, Daniele Moro, Charles Chan, Nick McKeown, Nate Foster<br>
-  *Accepted to ACM SIGCOMM '23*  
+  *[ACM SIGCOMM '23](https://dl.acm.org/doi/10.1145/3603269.3604856)*  
 
 <br>
 
