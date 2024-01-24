@@ -15,6 +15,10 @@ title: Publications
 
 Papers include brief abstract of work.
 
+**CS 6120 - Advanced Compilers (Fall 2023)** <br>
+Dynamic Compilation Techniques for Heterogenous Hardware <br>
+[Paper](https://www.cs.cornell.edu/courses/cs6120/2023fa/blog/jitnic/)
+
 **CS 6450 - Advanced Networking (Spring 2023)** <br>
 Using Causal Telemetry to verify BGP routing behavior <br>
 [Paper](./Causal_Telemetry_Paper.pdf)
