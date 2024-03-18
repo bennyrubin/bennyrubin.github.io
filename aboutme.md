@@ -21,7 +21,8 @@ and here
 ### Travel
 - I enjoy backpacking and exploring new cities
 - My favorite places I have hiked are Yosemite, Zion, and the Swiss Alps
-- Always looking for more opportunities to see the world
+
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1TK3uk4m97Zq-C4Kbw7NVGUfRijBB0QA&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
 
 ### Cooking
 - I love to cook vegetarian food and try new recipes! Lately I have been experimenting with a lot of Indian cuisine
