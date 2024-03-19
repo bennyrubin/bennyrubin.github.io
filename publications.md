@@ -3,7 +3,9 @@ layout: page
 title: Publications
 ---
 
-**2023**
+- **Fast and Safe IOMMU Memory Protection**  
+  **Benny Rubin**, Saksham Agarwal, Qizhe Cai, Rachit Agarwal<br>
+  *In preparing for submission to SOSP 2025*
 
 - **Hydra: Effective Runtime Network Verification**  
   Sundararajan Renganathan, **Benny Rubin**, Hyojoon Kim, Pier Ventre, Carmelo Cascone, Daniele Moro, Charles Chan, Nick McKeown, Nate Foster<br>
