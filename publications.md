@@ -7,6 +7,10 @@ title: Publications
   **Benny Rubin**, Saksham Agarwal, Qizhe Cai, Rachit Agarwal<br>
   *In Submission. SOSP 2024*
 
+- **Autonomic Passive IT-OT Device Classification in ICS/SCADA Networks**  
+  **Benny Rubin**, Ali Tekeoglu, Christopher Rouff<br>
+  *To appear. IEEE CSR ACSICS workshop 2024.*
+
 - **Hydra: Effective Runtime Network Verification**  
   Sundararajan Renganathan, **Benny Rubin**, Hyojoon Kim, Pier Ventre, Carmelo Cascone, Daniele Moro, Charles Chan, Nick McKeown, Nate Foster<br>
   *[ACM SIGCOMM '23](https://dl.acm.org/doi/10.1145/3603269.3604856)*, *[Github](https://github.com/cornell-netlab/hydra-artifact)* 
