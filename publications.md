@@ -3,9 +3,13 @@ layout: page
 title: Publications
 ---
 
-- **Fast and Safe Memory Protection for Networked Systems**  
+- **Fast and Safe IO Memory Protection**  
   **Benny Rubin**, Saksham Agarwal, Qizhe Cai, Rachit Agarwal<br>
-  *In Submission. SOSP 2024*
+  *To Appear. SOSP 2024*
+
+- **Autonomic Passive IT-OT Device Classification in ICS/SCADA Networks**  
+  **Benny Rubin**, Ali Tekeoglu, Christopher Rouff<br>
+  *To appear. IEEE CSR ACSICS workshop 2024.*
 
 - **Hydra: Effective Runtime Network Verification**  
   Sundararajan Renganathan, **Benny Rubin**, Hyojoon Kim, Pier Ventre, Carmelo Cascone, Daniele Moro, Charles Chan, Nick McKeown, Nate Foster<br>
