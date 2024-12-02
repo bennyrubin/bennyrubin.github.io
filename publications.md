@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-- **Fast and Safe IO Memory Protection**  
+- **Fast & Safe IO Memory Protection**  
   **Benny Rubin**, Saksham Agarwal, Qizhe Cai, Rachit Agarwal<br>
   *To Appear. SOSP 2024*
 
