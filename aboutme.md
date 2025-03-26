@@ -23,7 +23,6 @@ and here
 
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1TK3uk4m97Zq-C4Kbw7NVGUfRijBB0QA&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
 
-I am currently on a big post graduation trip! Follow along [here](https://benny-travels.notion.site/Benny-Travels-162591e6a0b4806ca960e5a8871cf3b3).
 
 ### Cooking
 - I love to cook vegetarian food and try new recipes! Lately I have been experimenting with a lot of Indian cuisine
