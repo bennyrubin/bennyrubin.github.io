@@ -20,6 +20,7 @@ and here
 ### Travel
 - I enjoy backpacking and exploring new cities
 - My favorite places I have hiked are Yosemite, New Zealand, and the Swiss Alps
+- Follow along on my post graduation trip [here](https://benny-travels.notion.site/Benny-Travels-162591e6a0b4806ca960e5a8871cf3b3)
 
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1TK3uk4m97Zq-C4Kbw7NVGUfRijBB0QA&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
 
